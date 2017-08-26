@@ -1,5 +1,5 @@
 ---
-redirect_from: "cw-im-worse-than-altraiders"
+redirect_from: "/cw-im-worse-than-altraiders"
 ---
 
 A review of current events: How I'm worse than an altraider
