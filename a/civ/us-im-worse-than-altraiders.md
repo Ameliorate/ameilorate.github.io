@@ -8,7 +8,7 @@ I'll start by saying I admit to all crimes as charged. What I am arguing is poor
 ## The raid
 
 A few days prior to my pearling, I went to commonwealth for a few errands,
-including buying all the workbenches from the shops and sorrounding area for free.
+including buying all the workbenches from the shops and surrounding area for free.
 [I mostly succeeded in this task.](https://raw.githubusercontent.com/Ameliorate/ameliorate.github.io/master/a/civ/CommonwealthInv.png)
 I eventually fell to my death and respawned in the US, across the map and in the inverse quadrant as Commonwealth.
 Because of that, I asked meow to retreive my items, which I assume meow did, given that they've never having my items.
@@ -16,7 +16,7 @@ Meow logged off for the night, and I later made it to Commonwealth and logged On
 in order to easily get back my items tomorow.
 In the next day, I asked meow for my items, and meow gave the excuse that he'd have to discuss it with others.
 The following day and the next few, I asked for my items with either no answer or a negative answer.
-Eventually, I gave Commonwealth and meow an ultamatim: Either give me my items or record themselves throwing my items into lava.
+Eventually, I gave Commonwealth and meow an ultimatum: Either give me my items or record themselves throwing my items into lava.
 I did not want to support Commonwealth after their treatment and punishment for my petty actions in Commonwealth a month ago,
 so I gave them the option of destroying the items.
 
@@ -81,7 +81,7 @@ This time, I was pearled and vaulted. At that moment, I was certain I was perma,
 and this bounty is still active and is not a meme. I will pay if you pearl poortea.
 Poortea broke my personal chests with 128 emerald blocks inside,
 and I was not given the chance to get my ExP blocks when I was kicked out of the US.
-I am tempted to place a similar bounty on Saren_Solaris after his actions, however I am still in consiteration.
+I am tempted to place a similar bounty on Saren_Solaris after his actions, however I am still in consideration.
 
 ## How I'm still worse than an altraider: The sentence
 
@@ -94,9 +94,9 @@ he never cited any portion of US law, and there was never even a constitution wr
 member of the US.
 I am not being held for any crimes I have commited or heald because anyone with claims on me do not have a vault.
 The only people autistic enough to press claims on me for breaking workbenches are Commonwealth, and the Commonwealth has the
-hajatland vault for their use, as proved during last month's drama, where I became worse than an altraider.
+Hjaltland vault for their use, as proved during last month's drama, where I became worse than an altraider.
 
-Poortea punished Parker and Bewsij not at all for their altraiding in Commonwealth,
+Poortea punished Parker and Bewsiej not at all for their altraiding in Commonwealth,
 however I am perma for debating my rights too hard in the Southshire discord.
 
 -Amelorate/Oniii_Chan/Oniii_San
