@@ -34,8 +34,8 @@ The one exception to this is that I will not leak your IP address or DDOS you.
 
 Q&A
 ---
-Q: Won't you have my IP?  
-A: Yes, I do. But I'm a good boy who doesn't know the third and fifth step to DDOSing someone.
+Q: Won't you have my IP if I join?  
+A: Yes, I will. But I'm a good boy who doesn't know the third and fifth step to DDOSing someone.
 I also promise not to leak your IP.
 
 Q: How is the modpack balanced? What blocks are disabled? What recipes are modified?  
@@ -49,7 +49,12 @@ In the future, I might reset the server and create a PvP-raiding iteration, howe
 Q: How do I chunkload?  
 A: Use The Weirding Gadget. Place the block in the world and right click it, it will keep the 3x3 of chunks loaded
 for a few days. Other mods have chunk loaders too, but The Weirding Gadget is the one that I won't remove unless things
-break. 
+break.
+
+Q: Why 1.10 instead of 1.7? Isn't the pvp bad on 1.10?  
+A: Mods for 1.10 are still being updated, and at the same time mods that are slow to update are already on 1.10.
+I know that 1.7's pvp is way better, however this isn't a pvp server. You can still pvp if you want,
+however pvp is not the main mechanic. PvE in 1.10 is better than 1.7, and that's what matters in this case.
 
 Mods
 ---
