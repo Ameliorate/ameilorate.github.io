@@ -1,8 +1,9 @@
 Amelorate Invitational CivModServerWithoutTheBadParts
 ---
 
-## NOTICE: This is a draft, AIC isn't up yet. Things may change, I'll probably fix things.
-The pack isn't done, I'll upload it eventually.
+## NOTICE: This is a draft, AIC isn't up yet. Things may change, I'll probably fix things.  
+The pack isn't done, I'll upload it eventually. I also might give up when almost complete, as I've basically done.  
+Bother me on discord or whatever if you want the pack as I made it so far.
 
 My modded minecraft world I was playing while I was pearled sperged out and turned half the blocks into leaf carpet blocks,
 so I modified the pack and put it on a multiplayer server. This can not turn out well.
