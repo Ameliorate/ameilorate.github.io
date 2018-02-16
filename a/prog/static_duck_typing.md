@@ -33,7 +33,7 @@ Given
 ```rust
 fn Duck?(self: Object) {
 	return self.wings == 2 &&
-	       self.lefs == 2 &&
+	       self.legs == 2 &&
 	       self.sound == "quack"
 }
 ```
