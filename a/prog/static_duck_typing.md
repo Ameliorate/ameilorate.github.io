@@ -60,6 +60,8 @@ fn quack(self) {
 As seen in the example above, the type of parameters are enforced at runtime when the function is called. 
 
 ## Some Syntactic Sugar
+
+### Structs
 ```rust
 struct Cat {
 	purring: Boolean,
@@ -99,3 +101,33 @@ fn cat_new(purring: Boolean, name: String) {
 ```
 
 In `_Cat_new`, it is worth noting that the return type of `Cat` also makes sure that `_Cat_new` returned a `Cat`.
+
+### Generics
+This is a strength of Static Duck Typing: Generics are purely sugar when you have first class functions:
+```rust
+fn better_id<T>(self: T) -> T {
+	return self;
+}
+
+struct B {
+	ll: String
+}
+
+B {ll: "aaaa"}.id();
+```
+Desugars into
+```rust
+fn better_id(T?: fn() -> Boolean, self: Object) -> Object {
+	if (!a.T?()) {
+		throw TypeError;
+	}
+	return a;
+}
+
+fn B?(self: Object) {
+	return self.ll.String?();
+}
+
+{"ll": "aaaa"}.id(B?);
+```
+
