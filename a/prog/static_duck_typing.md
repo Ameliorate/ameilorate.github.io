@@ -17,7 +17,7 @@ To assist in this, identifiers can have any UTF8 contents besides a space. For t
 Unlike javascript and lua however, objects do not use first-class functions to emulate member functions. Instead, something like rust is used:
 
 ```rust
-fn id(self: Object) {
+fn id(self: Object) -> Object {
 	return self;
 }
 
@@ -31,7 +31,7 @@ fn id(self: Object) {
 
 Given
 ```rust
-fn Duck?(self: Object) {
+fn Duck?(self: Object) -> Bool {
 	return self.wings == 2 &&
 	       self.legs == 2 &&
 	       self.sound == "quack"
@@ -69,7 +69,7 @@ struct Cat {
 	name: String,
 }
 
-fn cat_new(purring: Boolean, name: String) {
+fn cat_new(purring: Boolean, name: String) -> Cat {
 	return Cat {
 		purring: purring,
 		belly_rub_count: 0, // The cat was just born, needs belly rubs
@@ -81,7 +81,7 @@ fn cat_new(purring: Boolean, name: String) {
 Desugars to
 
 ```rust
-fn Cat? (self: Object) {
+fn Cat?(self: Object) -> Bool {
 	return self.purring.Boolean?() &&
 	       belly_rub_count.i64?() &&
 	       name.String?()
@@ -95,7 +95,7 @@ fn _Cat_new(purring: Boolean, belly_rub_count: i64, name: String) -> Cat {
 	}
 }
 
-fn cat_new(purring: Boolean, name: String) {
+fn cat_new(purring: Boolean, name: String) -> Cat {
 	return _Cat_new(purring, 0, name);
 }
 ```
